@@ -95,7 +95,7 @@ git diff --check
 | 曹蕊 | — |
 | 高梓涵 | — |
 | 顾问 | [huitoukanmenkou](https://github.com/huitoukanmenkou) |
-| 周倩颖 | — |
+| 周倩颖 |([Sylvia777777](https://github.com/Sylvia777777)|
 | 艾克代·艾麦提 | — |
 | 周煜莹 | — |
 | 顾金昊 | — |
